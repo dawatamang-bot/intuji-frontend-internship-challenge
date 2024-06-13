@@ -1,0 +1,43 @@
+* {
+
+  text-decoration: none;
+}
+
+.navbar {
+  background: linear-gradient(292.12deg, #62BADA -35.02%, #C9E7F2 78.96%);
+  padding-right: 15px;
+  padding-left: 15px;
+
+}
+
+.navdiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+li a {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 25px;
+}
+
+button {
+  background-color: blue;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 90px;
+}
+
+button a {
+  color: blue;
+  font-weight: bold;
+  font-size: 15px;
+}
